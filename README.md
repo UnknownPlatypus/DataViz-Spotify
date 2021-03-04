@@ -13,6 +13,6 @@ Parser python des données de 'data.csv' et 'data_w_genres.csv' du dataset [Spot
 
 ## Utilisation
 
-1. Placer dans le même dossier les fichiers `data.csv`, `data_w_genres.csv`, `sousgenre_vers_genre.csv` et `parser.py`.
+1. Placer dans le même dossier les fichiers `data.csv`, `data_w_genres.csv`, `sousgenre_vers_genre.csv` et `parser_data.py`.
 2. Executer le programme `parser_data.py`
 3. Le résultat est exporté dans un fichier `data_par_genre_par_annee_out.csv`.
